@@ -1,0 +1,2 @@
+# Requires: anti-liminal
+# (Not available on PyPI)
